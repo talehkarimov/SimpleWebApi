@@ -7,3 +7,5 @@ Login, Register, Products, Categories, Data result(success or error)
 # Dependencies
 Autofac,JWT,Encryption,Hashing
 
+# Database
+Northwind
